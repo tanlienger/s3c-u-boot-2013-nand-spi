@@ -1,0 +1,1 @@
+/home/coolmouse/WorkSpace/uboot学习/工作目录/s3c6410/uboot/new/u-boot-2013-nand-spi/arch/arm/cpu/arm1176/s3c64xx/cpu_init.S
